@@ -1,2 +1,5 @@
 .DS_Store
 node_modules
+db
+mongolab-connection-string
+public/angular/loc8r.min.js
